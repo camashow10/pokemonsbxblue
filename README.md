@@ -1,1 +1,6 @@
 # pokemonsbxblue
+
+
+Boa tarde pessoal da BxBlue, queria dizer que foi incrível me testar e fazer este código, foi um momento de grande aprendizado, tanto de linhas de código e programação, quanto de conhecimento pessoal, pude testar os meus limites em relação a APIs e até mesmo lógico, não conhecia ainda a API dos pokémons e foi muito legal desenolvê-la, infelizmente não consegui inserir a API de coins pois acabei gastando tempo demais modificando a API dos pokémons, mas foi de um aprendizado gigantesco, o C# na qual eu programei tenho só há 2 meses na faculdade, então aprendi muitas coisas que eu não sabia durante o processo, comunicação entre forms, variáveis e métodos, entre outros...
+
+No geral, foi muito divertido de se realizar, foi um teste leve de fazer apesar da dificuldade, infelizmente não consegui terminar no tempo devido a falta de proeficiência em uma linguagem específica, afinal tenho conhecimento em algumas mas total domínio ainda estou conquistando, entretanto, o aprendizado foi sensacional, espero estar com vocês em breve aprendendo mais ainda sobre esse universo, gosto demais dos valores da empresa e as pessoas com as quais eu falei foram de uma educação e comprometimento invejáveis, aguardo contato Bx, não vejo a hora de estar com vocês novamente!!
